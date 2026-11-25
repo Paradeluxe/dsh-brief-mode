@@ -1,0 +1,8 @@
+- insert:
+    - id: brief-mode
+      name: '@local/dsh-brief-mode'
+      config:
+        # The sentence injected into the model context while brief mode is on.
+        # Scope: only the user-facing final text — plain speech rather than mere
+        # brevity — and explicitly no cost saving on the work itself.
+        instruction: 输出长度要求：最终回复给用户的那段可见文字，尽量一句人话讲清楚——直白、一眼能懂，不堆术语、不铺垫、不套话；你的思考/推理过程、工具调用、代码和中间步骤不受此限制，照常完整进行。另外，不必为了早点收工而省步骤：你拥有无限的时间和资源，该读的读完、该验的验过，把活做完整再开口，只是最后那段话要短。

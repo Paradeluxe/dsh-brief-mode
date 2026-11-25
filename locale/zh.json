@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "简短回答",
+    "description": "输入框底部工具栏里的一个开关：开启后在对话里保留一条「上下文注入 · brief-mode」，要求活干完整、最终回答说人话且短；切换只改写同一条，不会堆积，关掉时它变成「已关闭」。也可以用 /brief、/brief on、/brief off 切换。",
+    "detail": "docs/DETAIL.md"
+  }
+}

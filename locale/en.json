@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Brief replies",
+    "description": "A switch in the composer tool row: while it is on, the conversation keeps one \"上下文注入 · brief-mode\" row asking for complete work and a short, plain user-facing final reply; switching rewrites that single row instead of stacking new ones, and turning it off makes the row read as closed. /brief, /brief on and /brief off switch it too.",
+    "detail": "docs/DETAIL.md"
+  }
+}
